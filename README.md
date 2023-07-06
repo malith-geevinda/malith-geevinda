@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Malith Geevinda Gunawardhana
 ====================================================================================================================================================
 
-Full Stack Developer
---------------------
+Undergraduate Student
+---------------------
+
+Passionate undergraduate student pursuing a degree in data science, leveraging my analytical skills to extract meaningful insights from complex datasets. Equipped with a solid foundation in statistics, programming, and machine learning, I am eager to contribute to projects that drive innovation and solve real-world problems. Constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest trends in data science. Open to collaboration and excited to be part of the ever-evolving field of data science.
 
 * 🌍  I'm based in Kandy, Sri Lanka
 * ✉️  You can contact me at [geevinda831@gmail.com](mailto:geevinda831@gmail.com)
@@ -10,9 +12,7 @@ Full Stack Developer
 * 🧠  I'm learning React and Kotlin
 
 <a href="https://www.github.com/it21289798" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/it21289798?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/malithgeevinda" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/malithgeevinda?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://img.shields.io/github/followers/it21289798?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 ### Skills
 
@@ -47,13 +47,13 @@ src="https://img.shields.io/twitter/follow/malithgeevinda?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/it21289798"><img src="https://github-readme-stats.vercel.app/api?username=it21289798&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="it21289798's GitHub stats" /></a>
+<a href="http://www.github.com/it21289798"><img src="https://github-readme-stats.vercel.app/api?username=it21289798&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="it21289798's GitHub stats" /></a>
 
-<a href="http://www.github.com/it21289798"><img src="https://github-readme-streak-stats.herokuapp.com/?user=it21289798&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/it21289798"><img src="https://github-readme-streak-stats.herokuapp.com/?user=it21289798&stroke=6366f1&background=000000&ring=0891b2&fire=0891b2&currStreakNum=6366f1&currStreakLabel=0891b2&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="http://www.github.com/it21289798"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=it21289798&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/it21289798"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=it21289798&bg_color=000000&color=6366f1&line=0891b2&point=6366f1&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/it21289798" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21289798&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/it21289798" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21289798&langs_count=10&title_color=0891b2&text_color=6366f1&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
